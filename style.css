@@ -374,6 +374,7 @@ input{
    width: 22rem;
    font-weight: 600;
    background: transparent;
+   margin-bottom: .5gitrem;
 }
 input::placeholder{
    text-transform: capitalize;
